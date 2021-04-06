@@ -49,6 +49,7 @@ li a:active {
   /* text-align: left; */
   font-size: 20px;
   padding-left: 50px;
+  margin: 1cm;
 }
 #header {
   text-decoration: underline;
