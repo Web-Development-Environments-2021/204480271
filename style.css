@@ -12,6 +12,7 @@ ul.list li {
   float: left;
   list-style: none;
   /* padding-top: 35px; */
+  margin: 0.2cm;
   padding-bottom: 10px;
   padding-left: 50px;
   padding-right: 50px;
